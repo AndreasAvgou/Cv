@@ -171,11 +171,7 @@ publications:
         conference : "2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP), 2021, pp. 1-4"
 
 skills:
-    title: Aditional Information
-    - Technical Skills: Python, R, SQL, Tensorflow, Keras, Spreadsheets(Excel), Visualization(PowerBI , Tableau), Apache Spark, React, Django,
-    - Languages: Greek, English.
-    - Certifications: IT & Engineering School : Data Engineering, Full Stack Python Developer,Business Analyst Career Track
-    - Developer Tools: Google Colab, Git, Docker, Google Cloud Platform, Microsoft Azure
+    title: Skills
     toolset:
       - name: SQL
         level: 90%
