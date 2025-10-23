@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Andreas Avgoustis
-    tagline: Junior Big Data Analyst
+    tagline: Big Data Analyst
     avatar: thumbnail_CRV_4911.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -24,22 +24,25 @@ sidebar:
         level: Proficiency
 
 experiences:
-    - role: Website Creator and Management
+    - role: Business Intelligence Analyst
       time: Feb. 2023 - Feb. 2024
       company:  Association of Educational Caregivers of Corfu, Corfu
-      details: |
-        - Designed and developed a user-friendly website for the Association of Educational Caregivers of Corfu, enhancing online presence and accessibility.
-        - Implemented a content management system (CMS) to facilitate easy updates and maintenance by non-technical staff.
-        - Created and organized website content, including articles, event announcements, and resources for caregivers. 
-        - Integrated social media platforms to promote engagement and disseminate information quickly.
       link: 'https://www.sefke.edu.gr/'
-    - role: Website Content Writer
-      time: Jul. 2021 - Jan. 2024
+      details: |
+        - Collected and analyzed data from the Association’s website and social media platforms to understand audience behavior and improve engagement.
+        - Created simple dashboards and reports to help the team track communication results, event participation, and online visibility.
+        - Set up an organized system for storing and updating information, making it easier to monitor activities and measure progress.
+        - Worked closely with the management team to define goals and key metrics, turning data into insights that supported everyday decisions.
+        - Used analytics tools to evaluate which types of content performed best and adjusted strategies to increase reach and effectiveness.
+    - role: Junior Data Analyst
+      time: Jul. 2021 - Jan. 2023
       company: Alfa Ekpaideutiki, Corfu
       link: 'https://alfaedu.gr'
       details: |
-        - Worked alongside with website developer and manager to update website using PHP.
-        - Constantly created articles for the website.
+        - Collected, organized, and analyzed website performance and engagement data using Excel and SQL to support content optimization decisions.
+        - Collaborated with developers to implement PHP-based data tracking features and automate website updates.
+        - Generated periodic analytical reports summarizing key performance metrics and trends for management review.
+        - Developed insights to enhance user engagement and improve SEO strategy based on traffic analysis.
     #- role: Robotics Teacher
      # time: October 2021 - October 2022
      # company: Alfa Ekpaideutiki, Corfu
