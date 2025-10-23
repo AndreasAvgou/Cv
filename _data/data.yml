@@ -5,11 +5,11 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
-    career-profile: True 
+    career-profile: False 
 
     # Profile information
     name: Andreas Avgoustis
-    tagline: Big Data Analyst
+    tagline: Big Data Analyst and Engineer
     avatar: thumbnail_CRV_4911.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
