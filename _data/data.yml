@@ -51,67 +51,33 @@ career-profile:
     with deep expertise in machine learning, data analysis, and system development. Research and project work leverage
     technology to address complex challenges, particularly in healthcare and data management sectors. Proficient in Python
     and various web development frameworks, complemented by certifications in full-stack development and data analytics.
+    
 education:
   title: Education
   info:
-  - degree: Phd Candidate in Informatics
-    university: Ionian University, Department of Informatics
-    time: May 2024 - Present
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
     details: |
-          - Pursuing a PhD in Informatics, specializing in cutting-edge research in big data analytics and machine learning.
-          - Engaged in research focused on:
-              - Enhancing the efficiency of algorithms.
-              - Exploring innovative models and applications for lip-reading and voice reproduction.
-          - Collaborating with interdisciplinary teams to foster innovative research.
-          - Aiming to publish impactful papers and present findings at premier conferences.
-          - Expertise honed in big data and deep learning analysis.
-          - Proficient in managing and analyzing extensive datasets to derive meaningful insights and drive innovations.
-         
-    - degree: MSc in Βig Data Driven Networked Systems
-      university: Ionian University, Department of Informatics 
-      time: Oct. 2022 - Feb. 2024
-      details: |
-         - Completed a Master’s degree with a strong focus on big data technologies and networked systems.
-         - Key courses included:
-             - Big Data Technologies
-             - Network Systems and Security
-             - Advanced Data Mining and Machine Learning
-             - Stochastic Analysis
-          - Capstone Project:
-              - Led the development of a [scalable healthcare process management](https://github.com/AndreasAvgou/Optimization-of-healthcare-process-management-using-machine-learning) system using machine learning and deep learning with Python.
-              - Enhanced data handling capabilities significantly.
-          - Achievements:
-              - Published [research on "Information"](https://www.mdpi.com/2078-2489/15/8/500) in Special Issue “Information Extraction and Language Discourse Processing”.
-              - Published [research in a conference and book chapter](https://link.springer.com/chapter/10.1007/978-3-031-63211-2_15) in "Artificial Intelligence Applications and Innovations”.
-              - Published [research on "Applied Sciences"](https://www.mdpi.com/2076-3417/13/19/10884) in Special Issue “Machine Learning Applications in Seismology”.
-          - Skills Acquired:
-              - Proficient in big data frameworks.
-              - Advanced expertise in machine and deep learning.
-              - Deep understanding of stochastic analysis and development.
-              - Strong capabilities in advanced analytical techniques.
-              - Gained practical experience through hands-on projects and research in machine learning healthcare systems and data analysis and engineering.
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
-    - degree: BSc in Informatics
-      university: Ionian University, Department of Informatics
-      time: Oct. 2015 - Feb. 2021
-      details: |
-          - Earned a Bachelor’s degree in Informatics with a broad learning experience in:
-            - Data Structures
-            - Algorithms
-            - Database Management
-            - Computer Networks
-            - Artificial Intelligence
-            - Web Development
-          - Capstone Project:
-            - Led the development of an [image Melanoma classification model](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification).
-            - Demonstrated advanced skills in machine learning applications.
-          - Achievements:
-            - Published [research on conference](https://ieeexplore.ieee.org/abstract/document/9610798) "2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)" conference.
-          - Skills Acquired:
-            - Proficiency in full-stack Python development.
-            - Strong foundation in machine and deep learning principles.
-            - Advanced data visualization techniques.
-            - Enhanced analytical skills.
 
 
 experiences:
