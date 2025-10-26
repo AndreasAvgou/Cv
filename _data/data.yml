@@ -155,51 +155,51 @@ certifications:
    # link: "#"
     #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+#publications:
+ # title: Publications
+  #intro: |
+   # You can list your publications in this section. Lorem ipsum dolor sit
+    #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #bibendum fringilla a eu lectus.
+ # papers:
+ # - title: The Art of Computer Programming
+ #   link: "#"
+ #   authors: Donald E. Knuth
+  #  conference: Addison-Wesley, 1968
+
+  #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+   # link: "#"
+    #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+  #- title: A syntax directed compiler for Algol 60
+   # link: "#"
+    #authors: Edgar T. Irons
+    #conference: "Comm. ACM 4 (1961), 51–55"
+
+#recommendations:
+ # title: Recommendations
+  #list:
+  #- person: Yareli Perez
+   # email: perezyareli@example.com
+    #phone: 012 345 6789
+    #role: General Director at example.com
+    #recommendation: |
+     # Alan Doe is a super employee!
+  #- person: Lara Henderson
+   # email: larah@example.com
+    #phone: 012 345 6789
+    #role: General Director at example.com
+    #recommendation: |
+     # I would like to work with Alan Doe again!
+
+      #He is a great employee!
+
+
 publications:
   title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
-
-publications:
-  title: Publications
-  papers:
-   - title: "Bridging Linguistic Gaps: Developing a Greek Text Simplification Dataset"
+      - title: "Bridging Linguistic Gaps: Developing a Greek Text Simplification Dataset"
         link: "https://doi.org/10.3390/info15080500"
         authors: "Agathos, L.; Avgoustis, A.; Kryelesi, X.; Makridou, A.; Tzanis, I.; Mouratidis, D.; Kermanidis, K.L.; Kanavos, A."
         conference: Special Issue "Information Extraction and Language Discourse Processing" Information 2024, 15(8), 500
