@@ -55,18 +55,18 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: Phd Candidate in Informatics
-    university: Ionian University, Department of Informatics
-    time: May 2024 - Present
-    details: |
-          - Pursuing a PhD in Informatics, specializing in cutting-edge research in big data analytics and machine learning.
-          - Engaged in research focused on:
-              - Enhancing the efficiency of algorithms.
-              - Exploring innovative models and applications for lip-reading and voice reproduction.
-          - Collaborating with interdisciplinary teams to foster innovative research.
-          - Aiming to publish impactful papers and present findings at premier conferences.
-          - Expertise honed in big data and deep learning analysis.
-          - Proficient in managing and analyzing extensive datasets to derive meaningful insights and drive innovations.
+    - degree: Phd Candidate in Informatics
+      university: Ionian University, Department of Informatics
+      time: May 2024 - Present
+      details: |
+        - Pursuing a PhD in Informatics, specializing in cutting-edge research in big data analytics and machine learning.
+        - Engaged in research focused on:
+            - Enhancing the efficiency of algorithms.
+            - Exploring innovative models and applications for lip-reading and voice reproduction.
+        - Collaborating with interdisciplinary teams to foster innovative research.
+        - Aiming to publish impactful papers and present findings at premier conferences.
+        - Expertise honed in big data and deep learning analysis.
+        - Proficient in managing and analyzing extensive datasets to derive meaningful insights and drive innovations.
          
     - degree: MSc in Βig Data Driven Networked Systems
       university: Ionian University, Department of Informatics 
