@@ -6,7 +6,7 @@ sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-    career-profile: True 
+  
 
     # Profile information
     name: Andreas Avgoustis
@@ -23,36 +23,7 @@ sidebar:
       - idiom: Greek
         level: Native
       - idiom: English
-        level: Prefessional
-
-experiences:
-    - role: Business Intelligence Analyst
-      time: Feb. 2023 - Feb. 2024
-      company:  Association of Educational Caregivers of Corfu, Corfu
-      link: 'https://www.sefke.edu.gr/'
-      details: |
-        - Collected and analyzed data from the Association’s website and social media platforms to understand audience behavior and improve engagement.
-        - Created simple dashboards and reports to help the team track communication results, event participation, and online visibility.
-        - Set up an organized system for storing and updating information, making it easier to monitor activities and measure progress.
-        - Worked closely with the management team to define goals and key metrics, turning data into insights that supported everyday decisions.
-        - Used analytics tools to evaluate which types of content performed best and adjusted strategies to increase reach and effectiveness.
-    - role: Junior Data Analyst
-      time: Jan. 2021 - Jan. 2023
-      company: Alfa Ekpaideutiki, Corfu
-      link: 'https://alfaedu.gr'
-      details: |
-        - Collected, organized, and analyzed website performance and engagement data using Excel and SQL to support content optimization decisions.
-        - Collaborated with developers to implement PHP-based data tracking features and automate website updates.
-        - Generated periodic analytical reports summarizing key performance metrics and trends for management review.
-        - Developed insights to enhance user engagement and improve SEO strategy based on traffic analysis.
-    #- role: Robotics Teacher
-     # time: October 2021 - October 2022
-     # company: Alfa Ekpaideutiki, Corfu
-     # link: 'https://alfaedu.gr'
-     # details: |
-      #  - Using LEGO education spike prime equipment for teaching children 10-12 years old fundamentals of physics, math, programming and music.
-       # - Successfully implemented S.T.E.M(Science,Technology,Engineering and Mathematics) model unifying these knowledge objects in a single perception.
-
+        level: Professional
 education:
     - degree: Phd Candidate in Informatics
       university: Ionian University, Department of Informatics
@@ -112,6 +83,35 @@ education:
             - Strong foundation in machine and deep learning principles.
             - Advanced data visualization techniques.
             - Enhanced analytical skills.
+
+experiences:
+    - role: Business Intelligence Analyst
+      time: Feb. 2023 - Feb. 2024
+      company:  Association of Educational Caregivers of Corfu, Corfu
+      link: 'https://www.sefke.edu.gr/'
+      details: |
+        - Collected and analyzed data from the Association’s website and social media platforms to understand audience behavior and improve engagement.
+        - Created simple dashboards and reports to help the team track communication results, event participation, and online visibility.
+        - Set up an organized system for storing and updating information, making it easier to monitor activities and measure progress.
+        - Worked closely with the management team to define goals and key metrics, turning data into insights that supported everyday decisions.
+        - Used analytics tools to evaluate which types of content performed best and adjusted strategies to increase reach and effectiveness.
+    - role: Junior Data Analyst
+      time: Jan. 2021 - Jan. 2023
+      company: Alfa Ekpaideutiki, Corfu
+      link: 'https://alfaedu.gr'
+      details: |
+        - Collected, organized, and analyzed website performance and engagement data using Excel and SQL to support content optimization decisions.
+        - Collaborated with developers to implement PHP-based data tracking features and automate website updates.
+        - Generated periodic analytical reports summarizing key performance metrics and trends for management review.
+        - Developed insights to enhance user engagement and improve SEO strategy based on traffic analysis.
+    #- role: Robotics Teacher
+     # time: October 2021 - October 2022
+     # company: Alfa Ekpaideutiki, Corfu
+     # link: 'https://alfaedu.gr'
+     # details: |
+      #  - Using LEGO education spike prime equipment for teaching children 10-12 years old fundamentals of physics, math, programming and music.
+       # - Successfully implemented S.T.E.M(Science,Technology,Engineering and Mathematics) model unifying these knowledge objects in a single perception.
+
 
 career-profile:
     title: Certificates
