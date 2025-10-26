@@ -55,9 +55,9 @@ education:
   title: Education
   info:
   - degree: Phd Candidate in Informatics
-      university: Ionian University, Department of Informatics
-      time: May 2024 - Present
-      details: |
+    university: Ionian University, Department of Informatics
+    time: May 2024 - Present
+    details: |
           - Pursuing a PhD in Informatics, specializing in cutting-edge research in big data analytics and machine learning.
           - Engaged in research focused on:
               - Enhancing the efficiency of algorithms.
