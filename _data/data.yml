@@ -3,284 +3,203 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+    career-profile: False 
 
-  # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # Profile information
+    name: Andreas Avgoustis
+    tagline: Big Data Analyst and Engineer
+    avatar: thumbnail_CRV_4911.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
-
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
-
-career-profile:
-  title: Career Profile
-  summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
-education:
-  title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    # Sidebar links
+    email: andreas_ker@outlook.com.gr
+    linkedin: andreasavgoustis
+    github: AndreasAvgou
+    pdf: https://www.dropbox.com/scl/fi/hreku1j2dfw4xc8d11yt9/Tech_Engineer_Resume.pdf?rlkey=and0clubbx77wdn5oyvoko8x0&st=azca53xb&dl=0
+    
+    languages:
+      - idiom: Greek
+        level: Native
+      - idiom: English
+        level: Proficiency
 
 experiences:
-  title: Experiences
-  info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    - role: Business Intelligence Analyst
+      time: Feb. 2023 - Feb. 2024
+      company:  Association of Educational Caregivers of Corfu, Corfu
+      link: 'https://www.sefke.edu.gr/'
+      details: |
+        - Collected and analyzed data from the Association’s website and social media platforms to understand audience behavior and improve engagement.
+        - Created simple dashboards and reports to help the team track communication results, event participation, and online visibility.
+        - Set up an organized system for storing and updating information, making it easier to monitor activities and measure progress.
+        - Worked closely with the management team to define goals and key metrics, turning data into insights that supported everyday decisions.
+        - Used analytics tools to evaluate which types of content performed best and adjusted strategies to increase reach and effectiveness.
+    - role: Junior Data Analyst
+      time: Jan. 2021 - Jan. 2023
+      company: Alfa Ekpaideutiki, Corfu
+      link: 'https://alfaedu.gr'
+      details: |
+        - Collected, organized, and analyzed website performance and engagement data using Excel and SQL to support content optimization decisions.
+        - Collaborated with developers to implement PHP-based data tracking features and automate website updates.
+        - Generated periodic analytical reports summarizing key performance metrics and trends for management review.
+        - Developed insights to enhance user engagement and improve SEO strategy based on traffic analysis.
+    #- role: Robotics Teacher
+     # time: October 2021 - October 2022
+     # company: Alfa Ekpaideutiki, Corfu
+     # link: 'https://alfaedu.gr'
+     # details: |
+      #  - Using LEGO education spike prime equipment for teaching children 10-12 years old fundamentals of physics, math, programming and music.
+       # - Successfully implemented S.T.E.M(Science,Technology,Engineering and Mathematics) model unifying these knowledge objects in a single perception.
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+education:
+    - degree: Phd Candidate in Informatics
+      university: Ionian University, Department of Informatics
+      time: May 2024 - Present
+      details: |
+          - Pursuing a PhD in Informatics, specializing in cutting-edge research in big data analytics and machine learning.
+          - Engaged in research focused on:
+              - Enhancing the efficiency of algorithms.
+              - Exploring innovative models and applications for lip-reading and voice reproduction.
+          - Collaborating with interdisciplinary teams to foster innovative research.
+          - Aiming to publish impactful papers and present findings at premier conferences.
+          - Expertise honed in big data and deep learning analysis.
+          - Proficient in managing and analyzing extensive datasets to derive meaningful insights and drive innovations.
+         
+    - degree: MSc in Βig Data Driven Networked Systems
+      university: Ionian University, Department of Informatics 
+      time: Oct. 2022 - Feb. 2024
+      details: |
+         - Completed a Master’s degree with a strong focus on big data technologies and networked systems.
+         - Key courses included:
+             - Big Data Technologies
+             - Network Systems and Security
+             - Advanced Data Mining and Machine Learning
+             - Stochastic Analysis
+          - Capstone Project:
+              - Led the development of a [scalable healthcare process management](https://github.com/AndreasAvgou/Optimization-of-healthcare-process-management-using-machine-learning) system using machine learning and deep learning with Python.
+              - Enhanced data handling capabilities significantly.
+          - Achievements:
+              - Published [research on "Information"](https://www.mdpi.com/2078-2489/15/8/500) in Special Issue “Information Extraction and Language Discourse Processing”.
+              - Published [research in a conference and book chapter](https://link.springer.com/chapter/10.1007/978-3-031-63211-2_15) in "Artificial Intelligence Applications and Innovations”.
+              - Published [research on "Applied Sciences"](https://www.mdpi.com/2076-3417/13/19/10884) in Special Issue “Machine Learning Applications in Seismology”.
+          - Skills Acquired:
+              - Proficient in big data frameworks.
+              - Advanced expertise in machine and deep learning.
+              - Deep understanding of stochastic analysis and development.
+              - Strong capabilities in advanced analytical techniques.
+              - Gained practical experience through hands-on projects and research in machine learning healthcare systems and data analysis and engineering.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    - degree: BSc in Informatics
+      university: Ionian University, Department of Informatics
+      time: Oct. 2015 - Feb. 2021
+      details: |
+          - Earned a Bachelor’s degree in Informatics with a broad learning experience in:
+            - Data Structures
+            - Algorithms
+            - Database Management
+            - Computer Networks
+            - Artificial Intelligence
+            - Web Development
+          - Capstone Project:
+            - Led the development of an [image Melanoma classification model](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification).
+            - Demonstrated advanced skills in machine learning applications.
+          - Achievements:
+            - Published [research on conference](https://ieeexplore.ieee.org/abstract/document/9610798) "2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP)" conference.
+          - Skills Acquired:
+            - Proficiency in full-stack Python development.
+            - Strong foundation in machine and deep learning principles.
+            - Advanced data visualization techniques.
+            - Enhanced analytical skills.
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+career-profile:
+    title: Certificates
+    summary: |
+     - [Full-Stack Python Developer](https://www.dropbox.com/scl/fi/ps8fq5i3wo8y0hckey92i/ANDREAS-AVGOUSTIS-Full-Stack-Python-Developer.pdf?rlkey=u7nsev5dei09jdt31qii41rbp&dl=0)
+     - [IT & Engineering School : Data Engineering](https://www.dropbox.com/s/g1r8m50tmr614gs/Certificate%20of%20Completion%20IT%20%26%20Engineering%20School%20Data%20Engineering%20-%20Andreas%20Avgoustis.pdf?dl=0)
+     - [Business Analyst Career Track](https://www.dropbox.com/scl/fi/rn7c4fmhjoy2o28pvmra3/Business-Analyst-Career-Track.pdf?rlkey=p6sgkekt0p2zdgxwjjh8mbe6m&dl=0)
+    # - [International Diploma in Business Administration](https://www.dropbox.com/s/9isq54cagogrlbk/%CE%91%CE%A5%CE%93%CE%9F%CE%A5%CE%A3%CE%A4%CE%97%CE%A3%20%CE%91%CE%9D%CE%94%CE%A1%CE%95%CE%91%CE%A3.pdf?dl=0)
+    # - [Google Data Analytics Professional Certificate](https://www.dropbox.com/s/79nqe1hh05gotvi/Coursera%20ZDZZ36Q9XCRF.pdf?dl=0)
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    
+#projects:
+    #title: Projects
+    #intro: >
+   #   You can list your side projects or open source libraries in this
+   #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #assignments:
+    #  - title: Melanoma Image Classification
+     #   link: "https://github.com/AndreasAvgou/Convolution-Neural-Network-code"
+     #   tagline: "A convolutional neural network for melanoma image classification"
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    #  - title: DevStudio
+     #   link: "#"
+     #   tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+     # - title: Tempo
+     #   link: "#"
+     #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+     # - title: Atom
+     #   link: "#"
+      #  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+     # - title: Delta
+     #   link: "#"
+     #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+    title: Publications
+   
+    papers:
+      - title: "Bridging Linguistic Gaps: Developing a Greek Text Simplification Dataset"
+        link: "https://doi.org/10.3390/info15080500"
+        authors: "Agathos, L.; Avgoustis, A.; Kryelesi, X.; Makridou, A.; Tzanis, I.; Mouratidis, D.; Kermanidis, K.L.; Kanavos, A."
+        conference: Special Issue "Information Extraction and Language Discourse Processing" Information 2024, 15(8), 500
+      - title: "Optimization of Healthcare Process Management Using Machine Learning"
+        link: "https://doi.org/10.1007/978-3-031-63211-2_15"
+        authors: "Avgoustis, A.; Exarchos, T.; Vrahatis, A.G.; Vlamos, P."
+        conference: "Artificial Intelligence Applications and Innovations. AIAI 2024. IFIP Advances in Information and Communication Technology, vol. 711. Springer, Cham."
+      - title: "Identifying Earthquakes in Low-Cost Sensor Signals Contaminated with Vehicular Noise"
+        link : "https://www.mdpi.com/2076-3417/13/19/10884"
+        authors : "Agathos, L.; Avgoustis, A.; Avgoustis, N.; Vlachos, I.; Karydis, I.; Avlonitis, M"
+        conference : Special Issue "Machine Learning Applications in Seismology" Appl. Sci. 2023, 13, 10884
+      - title: "Applied Deep learning for categorizing dermoscopic images"
+        link : "https://ieeexplore.ieee.org/abstract/document/9610798"
+        authors : "A. Avgoustis; T. Exarchos; K. L. Kermanidis &amp P. Mylonas"
+        conference : "2021 16th International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP), 2021, pp. 1-4"
 
 skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    title: Skills
+    toolset:
+      - name: SQL
+        level: 90%
+      - name: Python
+        level: 90%
+      - name: Excel
+        level: 95%
+      - name: PowerBI 
+        level: 90%
+      - name: Tableau 
+        level: 85%
+      - name: Apache Spark
+        level: 85%
+      - name: Tensorflow
+        level: 90%
+      - name: Keras
+        level: 90%    
+      - name: Javascript
+        level: 85%
+      - name: PHP
+        level: 75%  
+      - name: React
+        level: 80%
+      - name: Git
+        level: 70%
+      - name: Docker
+        level: 70%
+      
+      
+#footer: >
+   # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
