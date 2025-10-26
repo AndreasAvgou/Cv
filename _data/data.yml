@@ -77,31 +77,36 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-
-
-
 experiences:
   title: Experiences
   info:
-  - role: Business Intelligence Analyst
-      time: Feb. 2023 - Feb. 2024
-      company:  Association of Educational Caregivers of Corfu, Corfu
-      link: 'https://www.sefke.edu.gr/'
-      details: |
-        - Collected and analyzed data from the Association’s website and social media platforms to understand audience behavior and improve engagement.
-        - Created simple dashboards and reports to help the team track communication results, event participation, and online visibility.
-        - Set up an organized system for storing and updating information, making it easier to monitor activities and measure progress.
-        - Worked closely with the management team to define goals and key metrics, turning data into insights that supported everyday decisions.
-        - Used analytics tools to evaluate which types of content performed best and adjusted strategies to increase reach and effectiveness.
-    - role: Junior Data Analyst
-      time: Jan. 2021 - Jan. 2023
-      company: Alfa Ekpaideutiki, Corfu
-      link: 'https://alfaedu.gr'
-      details: |
-        - Collected, organized, and analyzed website performance and engagement data using Excel and SQL to support content optimization decisions.
-        - Collaborated with developers to implement PHP-based data tracking features and automate website updates.
-        - Generated periodic analytical reports summarizing key performance metrics and trends for management review.
-        - Developed insights to enhance user engagement and improve SEO strategy based on traffic analysis.
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - role: UI Developer
 certifications:
   title: Certifications
   summary: |
