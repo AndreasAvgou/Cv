@@ -1,5 +1,6 @@
 function print() {
-  const printWindow = window.open("{{ site.baseurl }}/print", "_blank");
+  const base = window.location.pathname.includes("/CV/") ? "/CV" : "";
+  const printWindow = window.open(`${base}/print`, "_blank");
   printWindow.onload = function () {
     printWindow.print();
     setTimeout(() => printWindow.close(), 500);
