@@ -1,5 +1,5 @@
 function print() {
-  const printWindow = window.open("CV/print", "_blank");
+  const printWindow = window.open("CV", "print");
   printWindow.onload = function () {
     printWindow.print();
     // Close the print window after a delay
