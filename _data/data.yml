@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -51,21 +51,22 @@ career-profile:
     with deep expertise in machine learning, data analysis, and system development. Research and project work leverage
     technology to address complex challenges, particularly in healthcare and data management sectors. Proficient in Python
     and various web development frameworks, complemented by certifications in full-stack development and data analytics.
+    
 education:
   title: Education
   info:
-  - degree: Phd Candidate in Informatics
-    university: Ionian University, Department of Informatics
-    time: May 2024 - Present
-    details: |
-          - Pursuing a PhD in Informatics, specializing in cutting-edge research in big data analytics and machine learning.
-          - Engaged in research focused on:
-              - Enhancing the efficiency of algorithms.
-              - Exploring innovative models and applications for lip-reading and voice reproduction.
-          - Collaborating with interdisciplinary teams to foster innovative research.
-          - Aiming to publish impactful papers and present findings at premier conferences.
-          - Expertise honed in big data and deep learning analysis.
-          - Proficient in managing and analyzing extensive datasets to derive meaningful insights and drive innovations.
+    - degree: Phd Candidate in Informatics
+      university: Ionian University, Department of Informatics
+      time: May 2024 - Present
+      details: |
+        - Pursuing a PhD in Informatics, specializing in cutting-edge research in big data analytics and machine learning.
+        - Engaged in research focused on:
+            - Enhancing the efficiency of algorithms.
+            - Exploring innovative models and applications for lip-reading and voice reproduction.
+        - Collaborating with interdisciplinary teams to foster innovative research.
+        - Aiming to publish impactful papers and present findings at premier conferences.
+        - Expertise honed in big data and deep learning analysis.
+        - Proficient in managing and analyzing extensive datasets to derive meaningful insights and drive innovations.
          
     - degree: MSc in Βig Data Driven Networked Systems
       university: Ionian University, Department of Informatics 
@@ -113,11 +114,10 @@ education:
             - Advanced data visualization techniques.
             - Enhanced analytical skills.
 
-
 experiences:
   title: Experiences
   info:
-  - role: Business Intelligence Analyst
+    - role: Business Intelligence Analyst
       time: Feb. 2023 - Feb. 2024
       company:  Association of Educational Caregivers of Corfu, Corfu
       link: 'https://www.sefke.edu.gr/'
@@ -136,12 +136,12 @@ experiences:
         - Collaborated with developers to implement PHP-based data tracking features and automate website updates.
         - Generated periodic analytical reports summarizing key performance metrics and trends for management review.
         - Developed insights to enhance user engagement and improve SEO strategy based on traffic analysis.
-certifications:
-  title: Certifications
-  summary: |
-     - [Full-Stack Python Developer](https://www.dropbox.com/scl/fi/ps8fq5i3wo8y0hckey92i/ANDREAS-AVGOUSTIS-Full-Stack-Python-Developer.pdf?rlkey=u7nsev5dei09jdt31qii41rbp&dl=0)
-     - [IT & Engineering School : Data Engineering](https://www.dropbox.com/s/g1r8m50tmr614gs/Certificate%20of%20Completion%20IT%20%26%20Engineering%20School%20Data%20Engineering%20-%20Andreas%20Avgoustis.pdf?dl=0)
-     - [Business Analyst Career Track](https://www.dropbox.com/scl/fi/rn7c4fmhjoy2o28pvmra3/Business-Analyst-Career-Track.pdf?rlkey=p6sgkekt0p2zdgxwjjh8mbe6m&dl=0)
+#certifications:
+#  title: Certifications
+ # summary: |
+ #    - [Full-Stack Python Developer](https://www.dropbox.com/scl/fi/ps8fq5i3wo8y0hckey92i/ANDREAS-AVGOUSTIS-Full-Stack-Python-Developer.pdf?rlkey=u7nsev5dei09jdt31qii41rbp&dl=0)
+  #   - [IT & Engineering School : Data Engineering](https://www.dropbox.com/s/g1r8m50tmr614gs/Certificate%20of%20Completion%20IT%20%26%20Engineering%20School%20Data%20Engineering%20-%20Andreas%20Avgoustis.pdf?dl=0)
+  #   - [Business Analyst Career Track](https://www.dropbox.com/scl/fi/rn7c4fmhjoy2o28pvmra3/Business-Analyst-Career-Track.pdf?rlkey=p6sgkekt0p2zdgxwjjh8mbe6m&dl=0)
 #projects:
   #title: Projects
   #intro: >
@@ -184,51 +184,51 @@ certifications:
    # link: "#"
     #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+#publications:
+ # title: Publications
+  #intro: |
+   # You can list your publications in this section. Lorem ipsum dolor sit
+    #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #bibendum fringilla a eu lectus.
+ # papers:
+ # - title: The Art of Computer Programming
+ #   link: "#"
+ #   authors: Donald E. Knuth
+  #  conference: Addison-Wesley, 1968
+
+  #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+   # link: "#"
+    #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+  #- title: A syntax directed compiler for Algol 60
+   # link: "#"
+    #authors: Edgar T. Irons
+    #conference: "Comm. ACM 4 (1961), 51–55"
+
+#recommendations:
+ # title: Recommendations
+  #list:
+  #- person: Yareli Perez
+   # email: perezyareli@example.com
+    #phone: 012 345 6789
+    #role: General Director at example.com
+    #recommendation: |
+     # Alan Doe is a super employee!
+  #- person: Lara Henderson
+   # email: larah@example.com
+    #phone: 012 345 6789
+    #role: General Director at example.com
+    #recommendation: |
+     # I would like to work with Alan Doe again!
+
+      #He is a great employee!
+
+
 publications:
   title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
-
-publications:
-  title: Publications
-  papers:
-   - title: "Bridging Linguistic Gaps: Developing a Greek Text Simplification Dataset"
+      - title: "Bridging Linguistic Gaps: Developing a Greek Text Simplification Dataset"
         link: "https://doi.org/10.3390/info15080500"
         authors: "Agathos, L.; Avgoustis, A.; Kryelesi, X.; Makridou, A.; Tzanis, I.; Mouratidis, D.; Kermanidis, K.L.; Kanavos, A."
         conference: Special Issue "Information Extraction and Language Discourse Processing" Information 2024, 15(8), 500
