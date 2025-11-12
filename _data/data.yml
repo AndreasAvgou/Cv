@@ -117,6 +117,22 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Computer Programmer
+      time: Dec. 2024 - Nov. 2025
+      company:  Research and Informatics Office in the 8th Motorized Infantry Brigade
+      link: ''
+      details: |
+        - Managed and supported large-scale intranet and secure information systems, ensuring high availability, confidentiality, and data integrity.
+        - Administered network infrastructure, including servers, routers, switches, and Cisco devices.
+        - Installed, configured, and maintained computer systems and virtualized environments (VMware ESXi, VirtualBox).
+        - Implemented and monitored information security policies, data backup strategies, and disaster recovery procedures.
+        - Designed and deployed structured cabling and improved local network topology.
+        - Provided 24/7 technical support to end-users, including hardware maintenance, troubleshooting, and issue resolution.
+        - Deployed and supported IT systems during joint operations and large-scale exercises.
+        - Automated repetitive administrative tasks through PowerShell and Java scripting.
+        - Managed file servers, network shares, and secure data transfer processes.
+        - Collaborated with multiple teams to ensure smooth IT operations and compliance with security standards.
+  info:
     - role: Business Intelligence Analyst
       time: Feb. 2023 - Feb. 2024
       company:  Association of Educational Caregivers of Corfu, Corfu
