@@ -6,6 +6,7 @@ sidebar:
   position: right # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
+  certifications: True 
 
   # Profile information
   # Profile information
@@ -151,12 +152,12 @@ experiences:
         - Collaborated with developers to implement PHP-based data tracking features and automate website updates.
         - Generated periodic analytical reports summarizing key performance metrics and trends for management review.
         - Developed insights to enhance user engagement and improve SEO strategy based on traffic analysis.
-#certifications:
-#  title: Certifications
- # summary: |
- #    - [Full-Stack Python Developer](https://www.dropbox.com/scl/fi/ps8fq5i3wo8y0hckey92i/ANDREAS-AVGOUSTIS-Full-Stack-Python-Developer.pdf?rlkey=u7nsev5dei09jdt31qii41rbp&dl=0)
-  #   - [IT & Engineering School : Data Engineering](https://www.dropbox.com/s/g1r8m50tmr614gs/Certificate%20of%20Completion%20IT%20%26%20Engineering%20School%20Data%20Engineering%20-%20Andreas%20Avgoustis.pdf?dl=0)
-  #   - [Business Analyst Career Track](https://www.dropbox.com/scl/fi/rn7c4fmhjoy2o28pvmra3/Business-Analyst-Career-Track.pdf?rlkey=p6sgkekt0p2zdgxwjjh8mbe6m&dl=0)
+certifications:
+  title: Certifications
+  summary: |
+     - [Full-Stack Python Developer](https://www.dropbox.com/scl/fi/ps8fq5i3wo8y0hckey92i/ANDREAS-AVGOUSTIS-Full-Stack-Python-Developer.pdf?rlkey=u7nsev5dei09jdt31qii41rbp&dl=0)
+     - [IT & Engineering School : Data Engineering](https://www.dropbox.com/s/g1r8m50tmr614gs/Certificate%20of%20Completion%20IT%20%26%20Engineering%20School%20Data%20Engineering%20-%20Andreas%20Avgoustis.pdf?dl=0)
+     - [Business Analyst Career Track](https://www.dropbox.com/scl/fi/rn7c4fmhjoy2o28pvmra3/Business-Analyst-Career-Track.pdf?rlkey=p6sgkekt0p2zdgxwjjh8mbe6m&dl=0)
 #projects:
   #title: Projects
   #intro: >
