@@ -118,6 +118,17 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Machine Learning / AI Researcher (PhD Research)
+      time: May. 2024 - Present
+      company:  Ionian University, Department of Informatics
+      link: ''
+      details: |
+        - Conducting research on deep learning, computer vision, and lip-reading AI, focusing on efficient model design and real-time inference.
+        - Developing and optimizing ML architectures (CNNs, LSTMs, Transformers) using Python, TensorFlow, Pytorch, Keras.
+        - Managing and analyzing large-scale datasets for healthcare applications using Python, SQL, and Spark.
+        - Publishing peer-reviewed research in deep learning, computer vision, and visual language modeling, with work focusing on lip-reading AI, multimodal learning, and advanced neural architectures.
+        - Designing experiments, benchmarking deep learning models, and evaluating performance across architectures (CNNs, LSTMs, Transformers, and emerging visual language models).
+        - Collaborating with interdisciplinary teams to integrate ML solutions into practical research problems.
     - role: Computer Programmer
       time: Dec. 2024 - Nov. 2025
       company:  Research and Informatics Office in the 8th Motorized Infantry Brigade
