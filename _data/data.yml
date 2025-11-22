@@ -46,12 +46,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Dedicated PhD candidate in Informatics at Ionian University, specializing in advanced big data analytics and machine
-    learning, with a strong focus designing and managing dashboards and data pipelines, aiming to enable efficient data
-    analysis and support decision-making. Holds an MSc in Big Data Driven Networked Systems and a BSc in Informatics,
-    with deep expertise in machine learning, data analysis, and system development. Research and project work leverage
-    technology to address complex challenges, particularly in healthcare and data management sectors. Proficient in Python
-    and various web development frameworks, complemented by certifications in full-stack development and data analytics.
+   AI/ML Engineer & PhD Researcher with strong academic foundations including an MSc in Big Data Driven Networked Systems and ongoing PhD studies in Informatics. 
+   Specializing in Deep Learning, Computer Vision, and large-scale data processing. Experienced in designing, training, and deploying advanced neural architectures (CNNs, LSTMs, Transformers) for real-time and healthcare-focused applications. 
+   Strong engineering background with hands-on expertise in Python, PyTorch, TensorFlow, SQL, Spark, Docker, and cloud platforms (GCP, Azure). Published researcher with contributions in multimodal learning, text simplification, seismology signal processing, and medical image analysis. 
+   Adept at building end-to-end ML pipelines, optimizing performance, and translating research innovations into production-grade systems.
     
 education:
   title: Education
